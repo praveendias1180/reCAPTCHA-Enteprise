@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=j7np5a9Yk6E
 # Choosing the Setup
 
 ![](decision.png)
+
+# Enable the API
+
+![](enable-api.png)
