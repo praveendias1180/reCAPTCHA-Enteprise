@@ -17,3 +17,7 @@ https://www.google.com/recaptcha/about/
 https://www.youtube.com/watch?v=AnndF9qmfjE
 
 https://www.youtube.com/watch?v=j7np5a9Yk6E
+
+# Online Fraud
+
+![](online-fraud.png)
