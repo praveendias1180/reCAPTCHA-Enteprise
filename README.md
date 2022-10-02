@@ -33,3 +33,12 @@ https://www.youtube.com/watch?v=j7np5a9Yk6E
 # Create an API Key
 
 ![](api-key.png)
+
+# Types of Keys
+
+- Score-based site key (Recommended)
+- Checkbox site key
+
+# Demo
+
+![](i-am-not-mr-robot.png)
