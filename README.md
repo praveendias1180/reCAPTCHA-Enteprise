@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=j7np5a9Yk6E
 # Online Fraud
 
 ![](online-fraud.png)
+
+# Choosing the Setup
+
+![](decision.png)
