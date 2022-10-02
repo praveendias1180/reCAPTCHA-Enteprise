@@ -29,3 +29,7 @@ https://www.youtube.com/watch?v=j7np5a9Yk6E
 # Enable the API
 
 ![](enable-api.png)
+
+# Create an API Key
+
+![](api-key.png)
